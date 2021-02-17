@@ -1,39 +1,160 @@
-﻿  Animation.cpp
-C:\Users\User\Desktop\1\Space\Animation.cpp(65,21): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\User\Desktop\1\Space\Animation.cpp(78,66): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\Animation.cpp(78,27): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\Animation.cpp(77,97): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\Animation.cpp(77,58): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\Animation.cpp(85,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\Animation.cpp(85,17): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\Animation.cpp(84,67): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\Animation.cpp(84,38): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  stdafx.cpp
+  Animation.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\Animation.cpp(65,21): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Animation.cpp(78,66): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Animation.cpp(78,27): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Animation.cpp(77,97): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Animation.cpp(77,58): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Animation.cpp(85,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Animation.cpp(85,17): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Animation.cpp(84,67): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Animation.cpp(84,38): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  App.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\App.cpp(36,30): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\App.cpp(44,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\App.cpp(55,28): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Boom.cpp
+  BoomEffect.cpp
+  Bullet.cpp
+  CollisionMgr.cpp
+  DeathStage.cpp
+  Dog.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\Dog.cpp(142,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Dog.cpp(177,18): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Dog.cpp(179,19): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Dog.cpp(181,20): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Dog.cpp(183,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  EffectMgr.cpp
+  END.cpp
+  Enemy.cpp
+  EnemyBullet2.cpp
+  ExpMgr.cpp
+  GameMgr.cpp
+  Hill.cpp
+  HOW_PLAY.cpp
+  Input.cpp
+  Level_Item.cpp
+  Meteor.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\Meteor.cpp(78,15): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Meteor.cpp(80,16): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Meteor.cpp(82,18): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Meteor.cpp(88,14): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Meteor.cpp(90,15): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Meteor.cpp(92,16): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Meteor.cpp(94,17): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Meteor.cpp(96,15): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Minion.cpp
-C:\Users\User\Desktop\1\Space\Minion.cpp(113,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\Minion.cpp(148,18): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\User\Desktop\1\Space\Minion.cpp(150,19): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\User\Desktop\1\Space\Minion.cpp(152,20): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\User\Desktop\1\Space\Minion.cpp(154,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Minion.cpp(113,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Minion.cpp(148,18): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Minion.cpp(150,19): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Minion.cpp(152,20): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Minion.cpp(154,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
   MMeteor.cpp
-C:\Users\User\Desktop\1\Space\MMeteor.cpp(72,15): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\MMeteor.cpp(74,16): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\MMeteor.cpp(76,18): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\MMeteor.cpp(82,14): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\MMeteor.cpp(84,15): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\MMeteor.cpp(86,16): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\MMeteor.cpp(88,17): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\MMeteor.cpp(90,15): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\MMeteor.cpp(72,15): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\MMeteor.cpp(74,16): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\MMeteor.cpp(76,18): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\MMeteor.cpp(82,14): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\MMeteor.cpp(84,15): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\MMeteor.cpp(86,16): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\MMeteor.cpp(88,17): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\MMeteor.cpp(90,15): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\Monster.cpp(81,14): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Monster.cpp(84,9): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Monster.cpp(85,9): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Monster.cpp(195,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Monster.cpp(231,12): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Monster.cpp(233,13): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Monster.cpp(235,14): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Monster.cpp(237,15): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  EnemyBullet.cpp
+  MonsterBullet.cpp
+  MonsterBullet2.cpp
+  Object.cpp
+  ObjectMgr.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\ObjectMgr.cpp(60,62): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\ObjectMgr.cpp(60,23): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\ObjectMgr.cpp(59,88): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\ObjectMgr.cpp(59,49): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(126,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(128,25): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(129,29): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(144,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(146,25): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(147,29): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(165,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(167,25): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(168,29): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(186,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(188,25): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(189,29): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(584,125): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(584,96): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(584,67): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(584,38): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(602,22): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(658,56): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(659,56): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(660,56): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(661,56): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Player.cpp(662,56): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RankMgr.cpp
+  RankScene.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\RankScene.cpp(39,40): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\RankScene.cpp(43,41): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RBullet.cpp
+  Renderer.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\Renderer.cpp(44,19): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Renderer.cpp(45,20): warning C4244: '=': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Renderer.cpp(52,19): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Renderer.cpp(53,20): warning C4244: '=': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Renderer.cpp(60,19): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Renderer.cpp(61,20): warning C4244: '=': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Renderer.cpp(69,19): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Renderer.cpp(70,20): warning C4244: '=': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ResetSkill.cpp
+  ResourceMgr.cpp
+  SceneDirector.cpp
+  SceneMain.cpp
+  Shield.cpp
+  SIngletonC.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\SIngletonC.cpp(36,20): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  SMeteor.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\SMeteor.cpp(71,15): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\SMeteor.cpp(73,16): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\SMeteor.cpp(75,18): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\SMeteor.cpp(81,14): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\SMeteor.cpp(83,15): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\SMeteor.cpp(85,16): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\SMeteor.cpp(87,17): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\SMeteor.cpp(89,15): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   SoundMgr.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Space.cpp
+  Sprite.cpp
+C:\Users\User\Documents\GitHub\Meteor\Space\Sprite.cpp(60,66): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Sprite.cpp(60,27): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Sprite.cpp(59,97): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Sprite.cpp(59,58): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Sprite.cpp(67,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Sprite.cpp(67,17): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Sprite.cpp(66,67): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\Sprite.cpp(66,38): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StageOne.cpp
   StageOneBoss.cpp
-C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(78,14): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(81,9): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(82,9): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(107,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(143,12): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(145,13): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(147,14): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(149,15): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\StageOneBoss.cpp(78,14): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\StageOneBoss.cpp(81,9): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\StageOneBoss.cpp(82,9): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\StageOneBoss.cpp(107,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\StageOneBoss.cpp(143,12): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\StageOneBoss.cpp(145,13): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\StageOneBoss.cpp(147,14): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Documents\GitHub\Meteor\Space\StageOneBoss.cpp(149,15): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
   StageTwo.cpp
   Texture.cpp
   코드를 생성하고 있습니다...
-  Space.vcxproj -> C:\Users\User\Desktop\1\Debug\Space.exe
+  Space.vcxproj -> C:\Users\User\Documents\GitHub\Meteor\Debug\Space.exe
