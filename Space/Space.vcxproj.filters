@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="FrameWork">
+      <UniqueIdentifier>{699be688-1f42-413e-918f-ff9cd384c2aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game">
+      <UniqueIdentifier>{057d081e-6101-44c0-b497-a4727f75a69c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game\Object">
+      <UniqueIdentifier>{d7a655d4-ce8d-4275-9512-bbffd119e566}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game\Object\스테이지">
+      <UniqueIdentifier>{11ed3be5-f631-460b-8aec-67d08b8966c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game\Object\플레이어">
+      <UniqueIdentifier>{40cba2c2-c7a8-408b-b81e-e37d7911de62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game\Object\플레이어\기본 탄환">
+      <UniqueIdentifier>{a7dbc864-12da-44a2-9367-5e9173bc89bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game\Object\플레이어\샷건">
+      <UniqueIdentifier>{4f4c9b44-289f-436d-a4aa-ff563a713e0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game\Object\플레이어\아이템">
+      <UniqueIdentifier>{d2b25ef0-e6da-4a36-a3e3-936b7aa10a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game\Object\1스테이지 몬스터">
+      <UniqueIdentifier>{ffc1be50-53e8-4f2c-9837-c424b99d49d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game\Object\1스테이지 몬스터\메테오">
+      <UniqueIdentifier>{f24d9858-80a6-4808-9907-9121eb410727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game\Object\1스테이지 몬스터\총알">
+      <UniqueIdentifier>{c6b11cf4-f16b-4f38-b341-c35af0f405c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Game\Object\2스테이지 몬스터">
+      <UniqueIdentifier>{8f85398e-92b8-46e4-9ae1-eb4a71d201ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="엔진">
+      <UniqueIdentifier>{b728d39c-8c4a-42c8-b170-c29f4ec9680a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="엔진\Mgrs">
+      <UniqueIdentifier>{709291cf-bc97-437a-9693-2aa1bb1d99be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="엔진\Node">
+      <UniqueIdentifier>{259cdba1-6ad0-419a-8063-8dbfebfda3fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="엔진\Mgr">
+      <UniqueIdentifier>{a7d460a7-7158-41e3-a2b1-d7708785a5d9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="App.cpp">
+      <Filter>엔진\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>엔진\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>엔진\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneDirector.cpp">
+      <Filter>엔진\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>엔진\Node</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>엔진\Node</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>엔진\Node</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>엔진\Node</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>엔진\Mgrs</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectMgr.cpp">
+      <Filter>엔진\Mgrs</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>엔진\Mgrs</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>FrameWork\Game\Object\2스테이지 몬스터</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBullet.cpp">
+      <Filter>FrameWork\Game\Object\2스테이지 몬스터</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBullet2.cpp">
+      <Filter>FrameWork\Game\Object\2스테이지 몬스터</Filter>
+    </ClCompile>
+    <ClCompile Include="END.cpp">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClCompile>
+    <ClCompile Include="HOW_PLAY.cpp">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceMgr.cpp">
+      <Filter>엔진\Node</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>FrameWork\Game\Object\플레이어\샷건</Filter>
+    </ClCompile>
+    <ClCompile Include="Meteor.cpp">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터\메테오</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterBullet.cpp">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터\총알</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterBullet2.cpp">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터\총알</Filter>
+    </ClCompile>
+    <ClCompile Include="MMeteor.cpp">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터\메테오</Filter>
+    </ClCompile>
+    <ClCompile Include="SMeteor.cpp">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터\메테오</Filter>
+    </ClCompile>
+    <ClCompile Include="RBullet.cpp">
+      <Filter>FrameWork\Game\Object\플레이어\기본 탄환</Filter>
+    </ClCompile>
+    <ClCompile Include="SIngletonC.cpp">
+      <Filter>엔진\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Boom.cpp">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="RankMgr.cpp">
+      <Filter>엔진\Mgrs</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMgr.cpp">
+      <Filter>엔진\Mgrs</Filter>
+    </ClCompile>
+    <ClCompile Include="StageOne.cpp">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClCompile>
+    <ClCompile Include="DeathStage.cpp">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMain.cpp">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClCompile>
+    <ClCompile Include="Minion.cpp">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터</Filter>
+    </ClCompile>
+    <ClCompile Include="Dog.cpp">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터</Filter>
+    </ClCompile>
+    <ClCompile Include="Shield.cpp">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectMgr.cpp">
+      <Filter>엔진\Mgrs</Filter>
+    </ClCompile>
+    <ClCompile Include="Space.cpp" />
+    <ClCompile Include="Hill.cpp">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="Level_Item.cpp">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="ExpMgr.cpp">
+      <Filter>엔진\Mgrs</Filter>
+    </ClCompile>
+    <ClCompile Include="ResetSkill.cpp">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>FrameWork\Game\Object\플레이어</Filter>
+    </ClCompile>
+    <ClCompile Include="StageTwo.cpp">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClCompile>
+    <ClCompile Include="RankScene.cpp">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClCompile>
+    <ClCompile Include="StageOneBoss.cpp">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터</Filter>
+    </ClCompile>
+    <ClCompile Include="BoomEffect.cpp">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="App.h">
+      <Filter>엔진\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>엔진\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>엔진\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneDirector.h">
+      <Filter>엔진\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>엔진\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>엔진\Node</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>엔진\Node</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>엔진\Node</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>엔진\Node</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>엔진\Mgrs</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectMgr.h">
+      <Filter>엔진\Mgrs</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>엔진\Mgrs</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>FrameWork\Game\Object\플레이어</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>FrameWork\Game\Object\2스테이지 몬스터</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBullet.h">
+      <Filter>FrameWork\Game\Object\2스테이지 몬스터</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBullet2.h">
+      <Filter>FrameWork\Game\Object\2스테이지 몬스터</Filter>
+    </ClInclude>
+    <ClInclude Include="DeathStage.h">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClInclude>
+    <ClInclude Include="END.h">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClInclude>
+    <ClInclude Include="HOW_PLAY.h">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceMgr.h">
+      <Filter>엔진\Node</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>FrameWork\Game\Object\플레이어\샷건</Filter>
+    </ClInclude>
+    <ClInclude Include="Meteor.h">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터\메테오</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterBullet.h">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터\총알</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterBullet2.h">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터\총알</Filter>
+    </ClInclude>
+    <ClInclude Include="MMeteor.h">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터\메테오</Filter>
+    </ClInclude>
+    <ClInclude Include="SMeteor.h">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터\메테오</Filter>
+    </ClInclude>
+    <ClInclude Include="RBullet.h">
+      <Filter>FrameWork\Game\Object\플레이어\기본 탄환</Filter>
+    </ClInclude>
+    <ClInclude Include="SIngletonC.h">
+      <Filter>엔진\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Boom.h">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="RankMgr.h">
+      <Filter>엔진\Mgrs</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMgr.h">
+      <Filter>엔진\Mgrs</Filter>
+    </ClInclude>
+    <ClInclude Include="StageOne.h">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMain.h">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClInclude>
+    <ClInclude Include="Minion.h">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터</Filter>
+    </ClInclude>
+    <ClInclude Include="Dog.h">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터</Filter>
+    </ClInclude>
+    <ClInclude Include="Shield.h">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectMgr.h">
+      <Filter>엔진\Mgrs</Filter>
+    </ClInclude>
+    <ClInclude Include="Hill.h">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_Item.h">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="ExpMgr.h">
+      <Filter>엔진\Mgrs</Filter>
+    </ClInclude>
+    <ClInclude Include="ResetSkill.h">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="StageTwo.h">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClInclude>
+    <ClInclude Include="RankScene.h">
+      <Filter>FrameWork\Game\Object\스테이지</Filter>
+    </ClInclude>
+    <ClInclude Include="StageOneBoss.h">
+      <Filter>FrameWork\Game\Object\1스테이지 몬스터</Filter>
+    </ClInclude>
+    <ClInclude Include="BoomEffect.h">
+      <Filter>FrameWork\Game\Object\플레이어\아이템</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

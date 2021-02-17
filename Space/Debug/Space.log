@@ -1,0 +1,39 @@
+﻿  Animation.cpp
+C:\Users\User\Desktop\1\Space\Animation.cpp(65,21): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\1\Space\Animation.cpp(78,66): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\Animation.cpp(78,27): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\Animation.cpp(77,97): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\Animation.cpp(77,58): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\Animation.cpp(85,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\Animation.cpp(85,17): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\Animation.cpp(84,67): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\Animation.cpp(84,38): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Minion.cpp
+C:\Users\User\Desktop\1\Space\Minion.cpp(113,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\Minion.cpp(148,18): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\1\Space\Minion.cpp(150,19): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\1\Space\Minion.cpp(152,20): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\1\Space\Minion.cpp(154,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  MMeteor.cpp
+C:\Users\User\Desktop\1\Space\MMeteor.cpp(72,15): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\MMeteor.cpp(74,16): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\MMeteor.cpp(76,18): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\MMeteor.cpp(82,14): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\MMeteor.cpp(84,15): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\MMeteor.cpp(86,16): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\MMeteor.cpp(88,17): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\MMeteor.cpp(90,15): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SoundMgr.cpp
+  StageOneBoss.cpp
+C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(78,14): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(81,9): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(82,9): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(107,11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(143,12): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(145,13): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(147,14): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\1\Space\StageOneBoss.cpp(149,15): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  StageTwo.cpp
+  Texture.cpp
+  코드를 생성하고 있습니다...
+  Space.vcxproj -> C:\Users\User\Desktop\1\Debug\Space.exe
